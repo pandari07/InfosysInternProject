@@ -415,9 +415,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Project Maintainer**: Arijit
-- **GitHub**: [@arijit3111w](https://github.com/arijit3111w)
-- **Repository**: [value-home-vision](https://github.com/arijit3111w/value-home-vision)
+**Project Maintainer**: Pandari
+- **GitHub**: [@arijit3111w](https://github.com/pandari07
+- **Repository**: [value-home-vision](https://github.com/pandari07/value-home-vision)
 
 ## 🔮 Future Roadmap
 
